@@ -7,7 +7,7 @@ I'm a 27 year old aspiring RPA (Robotics Automation Process) developer based in 
 # 🔭 Current Endeavors
 I'm currently teaching myself VB.NET and Python.
 Here's what I'm currently focused on:
-- I'm apart of the Python Study Buddies Group to study with and enhance my Python skill set with like-minded women in tech.
+- I joined the Python Study Buddies Group to learn and improve my Python skills alongside fellow women in tech.
 - I'm a early riser, always driven and constantly learning in the tech world.
 
 # ✨ Goals for 2024
